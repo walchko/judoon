@@ -1,6 +1,7 @@
 0.0.0.0 a.wunderlist.com
 0.0.0.0 austin.logs.roku.com
 0.0.0.0 cdn.embedly.com
+0.0.0.0 cdn.embed.ly
 0.0.0.0 embed.actionbutton.co
 0.0.0.0 embed.ly
 0.0.0.0 macshiny.com
