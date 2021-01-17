@@ -9,3 +9,16 @@
 0.0.0.0 trello.com
 0.0.0.0 tvmbd.com
 0.0.0.0 www.cs.tau.ac.il
+0.0.0.0 vod.foxnews.com
+0.0.0.0 video.foxnews.com
+0.0.0.0 apps.foxnews.com
+0.0.0.0 radio.foxnews.com
+0.0.0.0 a57.foxnews.com
+0.0.0.0 my.foxnews.com
+0.0.0.0 foxnews-d.openx.net
+0.0.0.0 www.i.cdn.cnn.com
+0.0.0.0 data.api.cnn.io
+0.0.0.0 registry.api.cnn.io
+0.0.0.0 cdn.cnn.com
+0.0.0.0 lightning.cnn.com
+0.0.0.0 bea4.cnn.com
