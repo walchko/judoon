@@ -1,5 +1,4 @@
 0.0.0.0 a.wunderlist.com
-0.0.0.0 austin.logs.roku.com
 0.0.0.0 cdn.embedly.com
 0.0.0.0 cdn.embed.ly
 0.0.0.0 embed.actionbutton.co
@@ -18,6 +17,7 @@
 0.0.0.0 cooper.logs.roku.com
 0.0.0.0 liberty.logs.roku.com
 0.0.0.0 scribe.logs.roku.com
+0.0.0.0 austin.logs.roku.com
 0.0.0.0 login.windows.net
 0.0.0.0 connectivity-check.ubuntu.com
 0.0.0.0 www.pd-news.com
