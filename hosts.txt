@@ -14,17 +14,22 @@
 0.0.0.0 vod.foxnew.com
 0.0.0.0 video.foxnews.com
 0.0.0.0 foxnewsplayer-a.akamaihd.net
-0.0.0.0 cooper.logs.roku.com
-0.0.0.0 liberty.logs.roku.com
-0.0.0.0 scribe.logs.roku.com
-0.0.0.0 austin.logs.roku.com
+#0.0.0.0 cooper.logs.roku.com
+#0.0.0.0 liberty.logs.roku.com
+#0.0.0.0 scribe.logs.roku.com
+#0.0.0.0 austin.logs.roku.com
 0.0.0.0 login.windows.net
 0.0.0.0 connectivity-check.ubuntu.com
 0.0.0.0 www.pd-news.com
 0.0.0.0 srv272a.com
 0.0.0.0 i0.wp.com
-0.0.0.0 static.weedmaps.com
-0.0.0.0 api.segment.weedmaps.com
-0.0.0.0 evs.segment.weedmaps.com
-0.0.0.0 api-g.weedmaps.com
-0.0.0.0 images.weedmaps.com
+#0.0.0.0 static.weedmaps.com
+#0.0.0.0 api.segment.weedmaps.com
+#0.0.0.0 evs.segment.weedmaps.com
+#0.0.0.0 api-g.weedmaps.com
+#0.0.0.0 images.weedmaps.com
+
+# Ad Block Plus format
+# https://pi-hole.net/blog/2023/03/22/pi-hole-ftl-v5-22-web-v5-19-and-core-v5-16-1-released/#page-content
+||logs.roku.com^
+||weedmaps.com^
