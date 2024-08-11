@@ -33,3 +33,11 @@
 ||trello.com^
 ||a.wunderlist.com^
 ||arc-download^
+
+# Project home page: https://github.com/anudeepND/whitelist
+# Adult Swim Videos on Amazon Firestick
+pmd.cdn.turner.com
+i.cdn.turner.com
+s.cdn.turner.com
+z.cdn.turner.com
+amd.cdn.turner.com
